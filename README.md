@@ -16,8 +16,4 @@ Inserção de nome do aluno e duas notas
 Cálculo automático de aprovação/reprovação
 Exibição de lista de alunos com seus respectivos status
 
-Tecnologias
-
-React
-Vite
-CSS
+Frederico Faria do Couto
